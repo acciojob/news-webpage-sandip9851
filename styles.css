@@ -44,9 +44,13 @@
 	width:150px;
 	height:400px;
 	margin:10px;
+	text-align:center;
 }
 img{
 	padding-bottom:10px;
+}
+li{
+padding-bottom:10px;
 }
 
 /*  your css code here. If applicable */
